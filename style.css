@@ -663,17 +663,11 @@ body {
     width: 100%;
     margin-top: 20px;
   }
-  .hero__left-dots {
-    display: none;
-  }
   body {
     overflow-x: hidden;
   }
   .container {
     overflow-x: hidden;
-  }
-  .footer__bottom {
-    display: none;
   }
 }
 @media screen and (max-width:520px){
